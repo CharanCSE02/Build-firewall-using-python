@@ -17,7 +17,7 @@ A Tkinter-based GUI interface that lets you:
 - Add or remove firewall rules
 - View existing rules
 - Control the firewall visually
-### Walls.py
+### Walls.json
 Contains all firewall rules in JSON format. These rules define which packets to allow or block.
 
 ## Requirements
